@@ -10,7 +10,7 @@
 ## MMDB Format
 
 ```
-country_code, city, state1, state2, postcode, latitude, longitude, timezone
+country_code, state1, state2, city, postcode, latitude, longitude, timezone
 ```
 
 
