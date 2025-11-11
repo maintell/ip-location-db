@@ -1,3 +1,8 @@
+0:0:0:0:2a02:8000:1000::,0::2c0f:fc78:efff:ffff,DE
+0:0:0:0:2c0f:fc78:f000::,0::2c0f:fc78:faef:ffff,ZA
+0:0:0:0:2c0f:fc78:faf0::,0::10:0:2c0f:fc78:faef:ffff,GB
+0:0:10:0:2c0f:fc78:faf0::,0::1000:0:2c0f:fc78:efff:ffff,ZA
+2a:9f6:1::,2a:9f6:1:ffff:ffff:ffff:ffff:ffff,IL
 2000::,2000:ffff:ffff:ffff:ffff:ffff:ffff:ffff,CH
 2001::,2001::ffff:ffff:ffff:ffff:ffff:ffff,US
 2001:1::,2001:1:ffff:ffff:ffff:ffff:ffff:ffff,CH
